@@ -21,5 +21,3 @@ function add(a, b) {
  function dec(n) {
    return n -= 1
  }
-
- 
